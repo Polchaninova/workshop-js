@@ -1,0 +1,112 @@
+.tools__wrapper {
+  padding-bottom: 90px;
+  background-image: url("../images/backgrounds/tools-bg.svg");
+  background-position: center bottom;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.tools__title {
+  max-width: 462px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.tools__button {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.tool__icon {
+  margin-bottom: 30px;
+}
+
+.tool__title {
+  margin: 0 0 16px;
+}
+
+.ico {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.icon-square {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 19px;
+}
+
+.icon-square_yellow {
+  background-color: #fab005;
+}
+
+.icon-square_red {
+  background-color: #f03e3d;
+}
+
+.icon-square_blue {
+  background-color: #4dadf7;
+}
+
+.icon-square_violet {
+  background-color: #7752be;
+}
+
+.icon-round {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-round_white {
+  background-color: #ffffff;
+}
+
+.icon_play {
+  background-image: url("../images/icons/play.svg");
+  width: 18px;
+  height: 19px;
+}
+
+.ico_arrow {
+  background-image: url("../images/icons/arrow.svg");
+  width: 12px;
+  height: 17px;
+}
+
+.ico_snake {
+  background-image: url("../images/icons/snake.svg");
+  width: 18px;
+  height: 14px;
+}
+
+.ico_heart {
+  background-image: url("../images/icons/heart.svg");
+  width: 17px;
+  height: 15px;
+}
+
+.ico_clock {
+  background-image: url("../images/icons/clock.svg");
+  width: 15px;
+  height: 17px;
+}
+
+.ico_phone {
+  background-image: url("../images/icons/phone.svg");
+  width: 13px;
+  height: 13px;
+}
+
+.ico_letter {
+  background-image: url("../images/icons/letter.svg");
+  width: 11px;
+  height: 8px;
+}

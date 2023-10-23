@@ -4,11 +4,19 @@
 @import "./base/container";
 
 @import "./components/logo";
-
+@import "./components/button";
 @import "./components/title";
-
+@import "./components/layout";
+@import "./components/modal";
+@import "./components/slider";
 
 @import "./layout/header";
+@import "./layout/promo";
+@import "./layout/tools";
+@import "./layout/strategy";
+@import "./layout/about";
+@import "./layout/contact";
+@import "./layout/footer";
 
 // @import "./layout/partner";
 // @import "./layout/footer";
